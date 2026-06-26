@@ -1,0 +1,42 @@
+Column,Description
+Order_ID,Unique order identifier
+Customer_ID,Unique customer identifier
+Order_Date,Date when the order was placed
+Year,Order year
+Month,Order month
+Day,Order day
+Day_Of_Week,Day of the week
+Quarter,Business quarter
+Customer_Age,Customer age in years
+Customer_Gender,Customer gender
+Country,Customer country
+City,Customer city
+Customer_Segment,Customer segment category
+Product_ID,Unique product identifier
+Product_Category,Main product category
+Product_Subcategory,Product subcategory
+Brand,Product brand
+Unit_Price,Price per unit
+Quantity,Number of units ordered
+Discount_Percent,Discount percentage applied
+Discount_Amount,Discount amount applied to the order
+Coupon_Used,Whether a coupon was used
+Shipping_Cost,Shipping cost charged
+Tax_Amount,Tax amount applied
+Order_Amount,"Final order amount including discount, shipping, and tax"
+Payment_Method,Payment method used
+Device_Type,Device used to place order
+Traffic_Source,Marketing or traffic source
+Membership_Status,Customer membership tier
+Shipping_Method,Selected shipping method
+Warehouse_Region,Warehouse fulfillment region
+Delivery_Days,Number of days taken for delivery
+Order_Status,Current or final order status
+Returned,Whether the order was returned
+Review_Rating,Customer review rating from 1 to 5
+Customer_Lifetime_Value,Estimated customer lifetime value
+Profit_Margin_Percent,Profit margin percentage
+Profit_Amount,Estimated profit amount
+Season,Season of the order
+Holiday_Season,Whether order occurred during holiday season
+High_Value_Order,Target variable indicating whether order is high value
